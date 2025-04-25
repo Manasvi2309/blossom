@@ -1,0 +1,177 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.BB{
+   align-items: flex-start;
+    margin: 0px 0px 0px 0px;
+}
+
+#navbar{
+    width: 100%;
+    height: 50px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px 0px 10px;
+    position:fixed ;
+
+    
+}
+
+#navbar ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    
+
+}
+
+#navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#navbar button{
+    padding: 2px 5px 2px 5px;
+}
+
+#navbar ul li a:hover{
+    color:rgb(221, 71, 121);
+}
+
+#contact1 .part1 div{
+    width: 100%;
+    height: 50vh;
+    position: absolute;
+    top: 90px;
+}
+
+#contact1 .part1 div img{
+    width: 100%;
+
+}
+
+#navbar  .carthome{
+    color: black;
+}
+
+
+.user-input p{
+    position: absolute;
+    top: 80%; 
+    left: 45%;
+    font-size: larger;
+    color:black;
+}
+
+.input p{
+    position: absolute;
+    top: 650px;
+}
+
+.input1 p{
+    position: absolute;
+    top: 695px;
+    left:45% ;
+    font-size: larger; 
+}
+
+.input2 p{
+    position: absolute;
+    top:750px ;
+    left:45% ;
+    font-size: larger;
+}
+
+
+.button p{
+    position: absolute;
+    top: 800px;
+    left: 45%;
+    background-color: pink;
+    padding: 3px;
+}
+
+/* footer part */
+#footer-home .fb1{
+    position: absolute;
+    top:1000px;
+    width: 100%;
+    height:100vh ;
+    background-color:  rgb(248, 213, 219);
+}
+
+#footer-home .fb1 .f1{
+    font-size: x-large;
+    position: absolute;
+    left: 30px;
+    top: 70px;
+}
+
+#footer-home .fb1 .f2{
+    position: absolute;
+    left: 30px; 
+    top: 150px; 
+}
+
+#footer-home .fb1 .f3{
+    position: absolute;
+    left: 30px; 
+    top: 300px; 
+}
+
+
+#footer-home .fb1 .f4{
+    position: absolute;
+    left: 30px; 
+    top: 450px; 
+}
+
+#footer-home .fb1 .f5{
+    position: absolute;
+    left: 45%; 
+    top: 150px; 
+}
+
+#footer-home .fb1 .f6{
+    position: absolute;
+    left: 65%; 
+    top: 150px; 
+}
+
+#footer-home .fb1 .f7{
+    position: absolute;
+    left: 85%; 
+    top: 150px; 
+}
+
+#footer-home .fb2{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    top:1700px ;
+    background-color:rgb(96, 86, 86) ;
+}
+
+#footer-home .fb2 div p{
+    position: absolute;
+    top: 15px;
+    left: 5px;
+    color: white;
+}
+
+#footer-home .fb2 div .site{
+    position: absolute;
+    left:87%;
+}
+
+#footer-home .fb1 ul li{
+    list-style: none;
+
+}
+
+
