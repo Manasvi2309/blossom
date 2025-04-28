@@ -1,0 +1,55 @@
+#homepage div{
+    position: absolute;
+    top: 15%;
+    left: 18%;
+    font-size: 120%;   
+}
+
+#homepage .p1 div{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+
+#homepage .p2 div{
+    position: absolute;
+    top: 50%;
+    left: 5%; 
+}
+
+#homepage .p2 div input{
+    padding: 5%;
+    padding-left: 5%;
+}
+
+#homepage .p3 div{
+    position: absolute;
+    top: 70%;
+    left: 5%; 
+}
+
+#homepage .p3 div input{
+    padding: 5%;
+    padding-left: 5%;
+}
+
+#homepage .p4 button{
+    position: absolute;
+    top: 85%;
+    left: 5%; 
+    padding: 1%;
+    color:black;
+}
+
+#homepage .cb{
+    position: absolute;
+    top:87% ;
+    left: 11%;
+}
+
+#homepage .pass2 p{
+    position: absolute;
+    top:92% ;
+    left: 5%;
+    color: palevioletred;
+}
